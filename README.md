@@ -67,7 +67,7 @@ Kirill Eremenko
 
 # Course Links
 
-https://www.udemy.com/course/r-programming/
+https://www.udemy.com/course/r-programming/. 
 https://www.superdatascience.com/pages/rcourse
 
 
