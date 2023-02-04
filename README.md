@@ -1,6 +1,43 @@
 # R-Programming A-Z
 Udemy Course by Kirill Eremenko. Basics of R and a few simple projects. 
 
+# Course Syllabus 
+## Section 1: Hit the Ground Running
+Mispriced Diamonds
+
+## Section 2: Core Programming Principles
+Homework Challenge
+
+## Section 3: Fundamentals of R
+Homework Challenge
+Homework Dataset
+Fill In The Blanks Exercise
+
+## Section 4: Matrices
+Section 4 – The Challenge
+Basketball Dataset
+Homework Challenge
+Homework Dataset
+Fill In The Blanks Exercise
+
+## Section 5: Data Frames
+Section 5 – The Challenge
+Demographic Data
+Country Region Vectors
+Homework Challenge
+Homework Dataset
+Homework Vectors
+Fill In The Blanks Exercise
+Note: Data for this section was sourced from data.worldbank.org
+
+## Section 6: Advanced Visualization
+Section 6 – Challenge
+Movie Ratings
+Grammar Of Graphics Slides
+Homework Challenge
+Homework Dataset
+Fill In The Blanks Exercise
+
 # Course Description 
 Learn R Programming by doing!
 
@@ -16,38 +53,46 @@ In summary, this course has been designed for all skill levels and even if you h
 
 I can't wait to see you in class,
 
-## What you will learn:
+* What you will learn:
 
-### Learn how to use R Studio
+* Learn how to use R Studio
 
-### Learn the core principles of programming
+* Learn the core principles of programming
 
-### Learn how to create vectors in R
+* Learn how to create vectors in R
 
-### Learn how to create variables
+* Learn how to create variables
 
-### Learn about integer, double, logical, character, and other types in R
+* Learn about integer, double, logical, character, and other types in R
 
-### Learn how to create a while() loop and a for() loop in R
+* Learn how to create a while() loop and a for() loop in R
 
-### Learn how to build and use matrices in R
+* Learn how to build and use matrices in R
 
-### Learn the matrix() function, learn rbind() and cbind()
+* Learn the matrix() function, learn rbind() and cbind()
 
-### Learn how to install packages in R
+* Learn how to install packages in R
 
-### Learn how to customize R studio to suit your preferences
+* Learn how to customize R studio to suit your preferences
 
-### Understand the Law of Large Numbers
+* Understand the Law of Large Numbers
 
-### Understand the Normal distribution
-### Practice working with statistical data in R
-### Practice working with financial data in R
-### Practice working with sports data in R
+* Understand the Normal distribution
+
+* Practice working with statistical data in R
+
+* Practice working with financial data in R
+
+* Practice working with sports data in R
 
 Sincerely,
 
 Kirill Eremenko
+
+# Course Links
+
+https://www.udemy.com/course/r-programming/
+https://www.superdatascience.com/pages/rcourse
 
 
 
