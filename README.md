@@ -1,5 +1,5 @@
 # R-Programming A-Z
-Udemy Course by Kirill Eremenko. Basics of R and a few simple projects. 
+Udemy Course by Kirill Eremenko. Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, & GGPlot2.
 
 # Course Syllabus 
 ### Section 1: Hit the Ground Running
