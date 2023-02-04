@@ -2,41 +2,17 @@
 Udemy Course by Kirill Eremenko. Basics of R and a few simple projects. 
 
 # Course Syllabus 
-## Section 1: Hit the Ground Running
-Mispriced Diamonds
+### Section 1: Hit the Ground Running
 
-## Section 2: Core Programming Principles
-Homework Challenge
+### Section 2: Core Programming Principles
 
-## Section 3: Fundamentals of R
-Homework Challenge
-Homework Dataset
-Fill In The Blanks Exercise
+### Section 3: Fundamentals of R
 
-## Section 4: Matrices
-Section 4 – The Challenge
-Basketball Dataset
-Homework Challenge
-Homework Dataset
-Fill In The Blanks Exercise
+### Section 4: Matrices
 
-## Section 5: Data Frames
-Section 5 – The Challenge
-Demographic Data
-Country Region Vectors
-Homework Challenge
-Homework Dataset
-Homework Vectors
-Fill In The Blanks Exercise
-Note: Data for this section was sourced from data.worldbank.org
+### Section 5: Data Frames
 
-## Section 6: Advanced Visualization
-Section 6 – Challenge
-Movie Ratings
-Grammar Of Graphics Slides
-Homework Challenge
-Homework Dataset
-Fill In The Blanks Exercise
+### Section 6: Advanced Visualization
 
 # Course Description 
 Learn R Programming by doing!
