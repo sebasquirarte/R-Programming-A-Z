@@ -8,7 +8,7 @@ Part of the UDEMY Course: 'R Programming A-Z: R For Data Science With Real Exerc
 ## Graphs 
 
 ### Strip Plot 
-![alt text](https://github.com/sebasquirarte/R-Programming-A-Z/blob/main/Demographic-Analyisis-Project/Scatter%20Plot.png)
+![alt text](https://github.com/sebasquirarte/R-Programming-A-Z/blob/main/Demographic-Analyisis-Project/Strip%20Plot.png)
 
 ### Box Plot 
 ![alt text](https://github.com/sebasquirarte/R-Programming-A-Z/blob/main/Demographic-Analyisis-Project/Box%20Plot.png)
