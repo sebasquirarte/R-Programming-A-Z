@@ -1,6 +1,6 @@
 # World Trends: Compare life expectancy and fertility rate by country (1960 vs 2013)
 # Part of the UDEMY Course: 'R Programming A-Z: R For Data Science With Real Exercises!' by Kirill Eremenko
-# Sebastian Quirarte | 21 Feb 2023 | sebastianquirajus@gmail.com 
+# Sebastian Quirarte | 01 Mar 2023 | sebastianquirajus@gmail.com 
 
 # Data source: https://www.superdatascience.com/pages/rcourse
 
